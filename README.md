@@ -1,5 +1,5 @@
 # Kanbanny Board
-
+![KanBan Board](image.png)
 ## Overview
 Kanbanny Board is a project management tool designed to help teams visualize their work, maximize efficiency, and improve continuously. This application is inspired by the Kanban methodology and provides a simple, intuitive interface for managing tasks and projects.
 
